@@ -1,0 +1,7 @@
+anthropic
+claude-agent-sdk
+python-dotenv
+anyio
+flask
+flask-cors
+pymysql
